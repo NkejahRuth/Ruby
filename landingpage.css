@@ -1,0 +1,62 @@
+body {
+  background-color: #ffffff;
+  margin: 50px 100px 25px 100px;
+  align-content: center;
+}
+
+/* .header Ruby {
+  color: #7f1010;
+}
+.Savings,
+.Loans,
+.Business,
+.Rent,
+.FAQs,
+.About,
+.Us {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  list-style-type: none;
+}
+.p1l1 #h3 {
+  color: #7f1010;
+} */
+
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+.header {
+  height: 100px;
+  /* width: 100%; */
+  padding: 0 8%;
+  background-color: white;
+  position: relative;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 60px;
+}
+
+.nav-links {
+  padding: 28px 00;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin: 25px;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: black;
+  padding: 10px 0;
+}
